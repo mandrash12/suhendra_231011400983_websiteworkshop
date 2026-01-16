@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Task Management System",
+  "description": "A sophisticated React-based task manager following clean architecture with Repository and Service layers, featuring categories, due dates, and real-time validation.",
+  "requestFramePermissions": []
+}
